@@ -59,6 +59,30 @@ An educational application providing access to study resources.
 - [Website](https://exammate.co.in/)
 - [Android Application](https://play.google.com/store/apps/details?id=com.shubham.offlinestudy)
 
+  ### 🌰 Royal Makhana
+
+<p align="left">
+  <a href="https://royalmakhana.org/">
+    <img src="https://royalmakhana.org/logo-makhana.jpg" width="100" height="80" alt="Royal Makhana logo" />
+  </a>
+</p>
+
+A web project for a makhana brand.
+
+- [Website](https://royalmakhana.org/)
+
+### 🩺 Awadh Speech and Hearing Clinic
+
+<p align="left">
+  <a href="https://www.awadhspeechandhearingclinic.com/">
+    <img src="https://www.awadhspeechandhearingclinic.com/logo.svg" width="100" height="80" alt="Awadh Speech and Hearing Clinic logo" />
+  </a>
+</p>
+
+A website for a speech, hearing, and audiology clinic, showcasing its services and appointment information. <Cite refs={["turn760875search0"]}/>
+
+- [Website](https://www.awadhspeechandhearingclinic.com/)
+
 ### 🎓 Study Sky
 
 <p align="left">
