@@ -34,36 +34,72 @@ I'm a software developer passionate about building reliable, secure, and user-fr
 ## 🚀 Projects
 
 ### 🏠 Make My Home
+
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=org.makemyhome.makemyhome_app">
+    <img src="https://play-lh.googleusercontent.com/B3izRG9rXfj7DvbbWCxGkc4tRMuNa_WnxMMFiQvn3mytfDYaFkxMTsjKV4yWKwECexqROSgjwLAs9H1zdtv7tg=s128-rw" width="80" height="80" alt="Make My Home app icon" />
+  </a>
+</p>
+
 A home improvement and construction materials platform.
 
 - [Website](https://makemyhome.org/)
 - [Android Application](https://play.google.com/store/apps/details?id=org.makemyhome.makemyhome_app)
 
 ### 📚 Exam Mate
-An educational platform providing access to study resources.
+
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.shubham.offlinestudy">
+    <img src="https://play-lh.googleusercontent.com/H--JpvhscFimlHw_w3OsAQiVgwFQnVdugG6_e-hP_wyNHQ_piRPY-prUdpnCop0fzAJZWV4Cgv5ZY4YVhCHKVQ=s128-rw" width="80" height="80" alt="Exam Mate app icon" />
+  </a>
+</p>
+
+An educational application providing access to study resources.
 
 - [Website](https://exammate.co.in/)
 - [Android Application](https://play.google.com/store/apps/details?id=com.shubham.offlinestudy)
 
 ### 🎓 Study Sky
+
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.user.studysky&hl=en-IN">
+    <img src="https://play-lh.googleusercontent.com/2Zu1Ahj4O-DYx8d3KnPggLc6mUJKMfaKQq6voLYONXtvgF9-8iIsTyxnH3BATOT04jX0oZWO4nWdcUiWEQqt=s128-rw" width="80" height="80" alt="Study Sky app icon" />
+  </a>
+</p>
+
 An educational platform and digital technology project.
 
 - [Website](https://www.studysky.in/)
 - [Android Application](https://play.google.com/store/apps/details?id=com.user.studysky&hl=en-IN)
 
 ### 🛠️ Servix
+
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.user.servixhome&hl=en-IN">
+    <img src="https://play-lh.googleusercontent.com/7BMGtKLYkf_vGSBz-y4C5px0yk_v00M4LNVCVzMBuTJVhD7vB2Q4mpq7m3gOF0tZVcO4HpaFbCyF7Fj48Pk7=s128-rw" width="80" height="80" alt="Servix app icon" />
+  </a>
+</p>
+
 A service-booking platform for electronics repairs, installations, and maintenance.
 
 - [Website](https://servix.in/)
 - [Android Application](https://play.google.com/store/apps/details?id=com.user.servixhome&hl=en-IN)
 
 ### 🏢 Pushkar Enterprises
+
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.user.GalaGirlsEvents&hl=en-IN">
+    <img src="https://play-lh.googleusercontent.com/N9PaHCRGCCDJ8kcUUpCP7ycrdxauXftx2-R2y2dB0LE6V_RL2jgVtdzf4qV3lSv4NPtt8zH2uctoS8iqWswg=s128-rw" width="80" height="80" alt="Pushkar Enterprises app icon" />
+  </a>
+</p>
+
 A business website and associated Android application.
 
 - [Website](https://pushkarenterprises.in/)
 - [Android Application](https://play.google.com/store/apps/details?id=com.user.GalaGirlsEvents&hl=en-IN)
 
 ### 🌐 Webnova Technologies
+
 - [Website](https://webnovatechnologies.io/)
 
 ## 💡 Areas of Interest
